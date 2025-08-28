@@ -9,7 +9,7 @@ import { api } from "../../../../convex/_generated/api";
 import { useRouter } from "next/navigation";
 import { Loader2Icon } from "lucide-react";
 import ActionCard from "@/components/ActionCard";
-import LoaderUI from "@/components/LoaderUI";
+import LoaderUI from "@/app/components/ui/LoaderUI";
 import MeetingModal from "@/components/MeetingModal";
 // import MeetingCard from "@/components/MeetingCard";
 
